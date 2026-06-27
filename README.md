@@ -1,14 +1,16 @@
 <div align="center">
 
-  <!-- Fast Loading Developer GIF -->
+  <!-- Fast Loading Professional GIF -->
   <img src="https://raw.githubusercontent.com/anirudhnegi2007/anirudhnegi2007/main/assets/coding.gif" 
        width="680" 
-       alt="Developer Coding Animation"/>
-  
+       alt="Anirudh Negi - Full Stack Developer"/>
+
   <br/><br/>
 
   <h1>Hey, I'm Anirudh Negi 👋</h1>
-  <p><i>Full Stack Dev · Bug Creator &amp; Fixer · Powered by Chai ☕</i></p>
+  
+  <p><strong>Full Stack Developer | Building Scalable Web Applications</strong></p>
+  <p><i>Passionate about crafting efficient, user-centric solutions with modern technologies</i></p>
 
   <a href="https://linkedin.com/in/anirudhnegi2007">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
@@ -22,9 +24,8 @@
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=git+commit+-m+'it+works+idk+why'+%F0%9F%98…;Turning+chai+into+code+since+2007+%E2%98%95;Ship+first%2C+debug+later+%F0%9F%9A%80;404%3A+Sleep+not+found+%F0%9F%98…" alt="Typing SVG"/>
-  </a>
+  <!-- Working Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG"/>
 
   <br/><br/>
 
@@ -59,8 +60,5 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhnegi2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhnegi2007&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph"/>
-
-  <br/>
-  <i>"It works on my machine" — probably Anirudh, always 😄</i>
 
 </div>
