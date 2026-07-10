@@ -25,7 +25,7 @@
   <br/><br/>
 
   <!-- Working Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Open+to+Internships+%26+Full-time+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript" alt="Typing SVG"/>
 
   <br/><br/>
 
